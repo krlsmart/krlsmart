@@ -14,7 +14,7 @@ C# | Unity | WPF
 ### Software Crafting Skills
 **TDD** |  **XP** | **DDD** | **Trunk Based Development** | **Refactoring** | **Test automation** | **Pair/Mob Programming** | **CI/CD** | Software Architecture | SOLID | Functional Programming | Tool Programming | Clean Code | Design patterns | Agile | Lean 
 ### Other Technologies
-Bitbucket | SourceTree | Confluence | Jira | Git | TeamCity | Firebase | Playfab | HacknPlan | NUnit | NSubstitute | Fluent assertions | Photon | ConfigCat | Sonarqube | SQL | UML | Azure | CosmosDb | Docker
+Bitbucket | SourceTree | Confluence | Jira | Git | TeamCity | Slack | Firebase | Playfab | HacknPlan | NUnit | NSubstitute | Fluent assertions | Photon | ConfigCat | Sonarqube | SQL | UML | Azure | CosmosDb | Docker
 ### Game Development
 Unity | Android | iOS | Tool Programming | Mobile game development | Networked Games | Fast prototyping
 ### IDEs
