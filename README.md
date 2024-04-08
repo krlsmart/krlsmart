@@ -47,6 +47,7 @@ Rider, Visual Studio, VSCode
 * Clean Architecture: A Craftsman's Guide to Software Structure and Design; Robert C. Martin
 * Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
 * Extreme Programming Explained: Embrace Change; Kent Beck; Cynthia Andres
+* Refactoring: Improving the Design of Existing Code; Martin Fowler.
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win; Gene Kim; Kevin Behr; George Spafford
 * The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
 * Working Effectively With Legacy Code; Michael C. Feathers
