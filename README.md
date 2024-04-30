@@ -1,4 +1,4 @@
-### Hi there, I'm [Carlos Martínez](https://www.linkedin.com/in/carlos-mart%C3%ADnez-de-la-cruz-74a3589b/) 👋
+# Hi there, I'm [Carlos Martínez](https://www.linkedin.com/in/carlos-mart%C3%ADnez-de-la-cruz-74a3589b/) 👋
 
 ## 👨‍💻 About me
 * 🗺 Spanish, English.
@@ -27,13 +27,15 @@ Rider, Visual Studio, VSCode
 
 📖 Current readings:
 
-* Soft Skills: The Software Developer's Life Manual; John Sonmez
+* Extreme Programming Explained: Embrace Change; Kent Beck; Cynthia Andres
+* Working Effectively With Legacy Code; Michael C. Feathers
 
 📕 Previous readings:
 
 * Clean Code: A Handbook of Agile Software Craftsmanship; Robert C. Martin
 * Idea Flow: How to Measure the PAIN in Software Development; Janelle Klein
 * Remote: Office Not Required; David Heinemeier Hansson y Jason Fried
+* Soft Skills: The Software Developer's Life Manual; John Sonmez
 * Test-Driven Development By Example; Kent Beck
 * The Art of Readable Code. Simple and Practical techniques for Writing Better Code; Dustin Boswell; Trevor Foucher
 * The Clean Coder. A Code of Conduct for Professional Programmers; Robert C. Martin
@@ -46,10 +48,8 @@ Rider, Visual Studio, VSCode
 * Accelerate: The Science of Lean Software and DevOps; Nicole Forsgren; PhD Jez Humble; Gene Kim
 * Clean Architecture: A Craftsman's Guide to Software Structure and Design; Robert C. Martin
 * Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
-* Extreme Programming Explained: Embrace Change; Kent Beck; Cynthia Andres
-* Refactoring: Improving the Design of Existing Code; Martin Fowler.
+* Refactoring: Improving the Design of Existing Code; Martin Fowler
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win; Gene Kim; Kevin Behr; George Spafford
 * The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
-* Working Effectively With Legacy Code; Michael C. Feathers
 
 ---
